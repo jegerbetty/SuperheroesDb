@@ -8,9 +8,9 @@ Create a script called 01_dbCreate.sql that contains a statement to create the d
 **02_tableCreate.sql**
 There are three main tables you need to create, this is Superhero, Assistant, and Power.
 
-Superhero has: Autoincremented integer Id, Name, Alias, Origin.
-Assistant has: Autoincremented integer Id, Name.
-Power has: Autoincremented integer Id, Name, Description.
+⋅⋅Superhero has: Autoincremented integer Id, Name, Alias, Origin.⋅⋅
+⋅⋅Assistant has: Autoincremented integer Id, Name.⋅⋅
+⋅⋅Power has: Autoincremented integer Id, Name, Description.⋅⋅
 
 Create a script called 02_tableCreate.sql that contains statements to create each of these tables and
 setup their primary keys. 
