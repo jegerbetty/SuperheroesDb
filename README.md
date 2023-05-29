@@ -1,5 +1,5 @@
 # SuperheroesDb
-SQL scripts to create a SuperheroesDb, setup tables in the databasem add relationships to the tables, and then populate the tables with data.
+SQL scripts to create a SuperheroesDb, setup tables in the database, add relationships to the tables, and then populate the tables with data.
 This is part of the second assignment for the Back-end Web Development with .NET course I am currently undertaking.
 
 **01_dbCreate.sql**
@@ -7,6 +7,7 @@ Create a script called 01_dbCreate.sql that contains a statement to create the d
 
 **02_tableCreate.sql**
 There are three main tables you need to create, this is Superhero, Assistant, and Power.
+
 Superhero has: Autoincremented integer Id, Name, Alias, Origin.
 Assistant has: Autoincremented integer Id, Name.
 Power has: Autoincremented integer Id, Name, Description.
